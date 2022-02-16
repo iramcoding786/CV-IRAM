@@ -1,0 +1,47 @@
+<html>
+<head><title>BASIC TAGS</title> </head>
+<body>
+<p> my name is Iram Shehzadi <br> Iam 19 year of old </p>
+<p><strong> I love my Parents. </strong>
+
+<i> Mother is my hero </i>
+<del> Haaaaaaaaa </del>
+</p>
+<p> <small> Iam student of BSIT </small> <br> 5 <sub> 2 </sub></p>
+<p> X  <sup> 2 </sup> </p>
+<p><pre> I am tired <hr></pre><p>
+<ul><li> Pakistan </li>
+<li> Canada </li>
+<li> Iran </li>
+<ul type = square>
+<li> Pakistan </li>
+<li> America </li>
+</ul type =square>
+<ul type = none>
+<li> Pakistan </li>
+<li> America </li>
+</ol type = "A">
+<li> Pakistan <li>
+<li> America </li>
+</ol type="A">
+<dl>
+<ul><dt> Gujrat </dt>
+<dd><li> Ilove in Faislabad </dd></li>
+<dd><li> I love this city </dd></li>
+</dl></ul>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
